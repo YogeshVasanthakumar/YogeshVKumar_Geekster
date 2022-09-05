@@ -1,0 +1,15 @@
+ans=true
+ans=true
+ans=false
+ans=true
+ans=true
+ans=true
+ans=true
+ans=true
+ans=true
+ans=false
+ans=true
+ans=true
+ans=true
+ans=false
+ans=false
