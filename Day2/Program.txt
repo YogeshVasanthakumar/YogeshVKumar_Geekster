@@ -1,0 +1,114 @@
+Q1:
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int diameter = scan.nextInt();
+        int area = (22*(diameter/2)*(diameter/2))/7;
+        System.out.println(area);
+    }
+}
+
+Q2:
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        double x = scan.nextDouble();
+        double y = scan.nextDouble(); 
+        System.out.println((x*y)/2);
+    }
+}
+
+Q3:
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int x = scan.nextDouble();
+       if(x>1000){
+           System.out.println("true");
+       }
+        else{
+            System.out.println("false");
+        }
+    }
+}
+
+Q4: Quiz
+
+Q5:
+a. x=14
+b. x=25
+c. x=4
+d. x=19.76
+e. x=10.0
+f. x=10.5
+g. x=10.75
+h. x=0
+i. x=2.125
+
+Q6:
+a. ans=true
+b. ans=true
+c. ans=false
+d. ans=true
+e. ans=true
+f. ans=true
+g. ans=false
+h. ans=true
+i. ans=true
+j. ans=true
+
+Q7:
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        double a = scan.nextDouble();
+        double b = scan.nextDouble();
+        double c = scan.nextDouble();
+        double d = scan.nextDouble();
+        double e = scan.nextDouble();
+        double sum = a+b+c+d+e;
+        double percentage =(sum*100)/500; 
+        System.out.println(sum);
+        System.out.println(percentage);
+    }
+}
+
+Q8:
+public class Main {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int x = scan.nextDouble();
+int y = scan.nextDouble();
+int z = scan.nextDouble();
+int w = scan.nextDouble();
+int pro = x*y*z*w;
+       if(pro>1000){
+           System.out.println("true");
+       }
+        else{
+            System.out.println("false");
+        }
+    }
+}
+
+Q9:
+public class Main {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int x = scan.nextDouble();
+       if(x%7==0){
+           System.out.println("divisible by 7");
+       }
+        else{
+            System.out.println("not divisible by 7");
+        }
+    }
+}
+
+Q10:Quiz
+
+
